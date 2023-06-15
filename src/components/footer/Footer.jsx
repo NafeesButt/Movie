@@ -31,16 +31,16 @@ const Footer = () => {
         </div>
         <div className="socialIcons">
           <span className="icon">
-            <FaFacebookF />
-          </span>
-          <span className="icon">
-            <FaInstagram />
+            <FaLinkedin />
           </span>
           <span className="icon">
             <FaTwitter />
           </span>
           <span className="icon">
-            <FaLinkedin />
+            <FaInstagram />
+          </span>
+          <span className="icon">
+            <FaFacebookF />
           </span>
         </div>
       </ContentWrapper>
