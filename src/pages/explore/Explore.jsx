@@ -147,7 +147,7 @@ const Explore = () => {
                 })}
               </InfiniteScroll>
             ) : (
-              <span className="resultNotFound">Sorry, Results not found!</span>
+              <span className="resultNotFound">Sorry, Data not found!</span>
             )}
           </>
         )}
